@@ -1,2 +1,3 @@
 # Generative-ai-
-This repository contains exercises done in generative ai which are deep learning, CNN, GAN...
+A structured collection of hands-on exercises and mini-projects exploring Deep Learning, CNNs, GANs, and LangChain. Focused on building foundational understanding and practical implementation skills.
+
